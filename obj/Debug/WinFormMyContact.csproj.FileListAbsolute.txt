@@ -1,0 +1,12 @@
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\bin\Debug\WinFormMyContact.exe.config
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\bin\Debug\WinFormMyContact.exe
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\bin\Debug\WinFormMyContact.pdb
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.csproj.AssemblyReference.cache
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.Form1.resources
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.Properties.Resources.resources
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.csproj.GenerateResource.cache
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.csproj.CoreCompileInputs.cache
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.exe
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.pdb
+C:\Users\mohaddesse\Source\Repos\WinFormMyContact\WinFormMyContact\obj\Debug\WinFormMyContact.frmAddOrEdit.resources
